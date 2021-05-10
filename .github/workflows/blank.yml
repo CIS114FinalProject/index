@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="utf-8">
+    <title>HOME</title>
+</head>
+<body>
+    <!--header-->
+    <div class="header">
+  <h1>Clothing</h1>
+    </div>
+    <!--navigation-->
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="#">Shop</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+        <img src="images/t-shirtrack.jpg"
+             alt="t-shirtrack">
+    
+        <!--sign up button-->
+    <a href="newaccount.html" class="button3">JOIN US</a>
+    
+     <footer>
+         <nav id="footernav">
+        <ul>
+            <li class="footerli"><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="#">Shop</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+        </footer>
+    
+    
+    </body>
+
+
+
+</html>
